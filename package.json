@@ -22,14 +22,14 @@
     "vue-router": "^4.3.0"
   },
   "devDependencies": {
-    "@quasar/vite-plugin": "^1.7.0",
+    "@quasar/vite-plugin": "^1.9.0",
     "@rushstack/eslint-patch": "^1.8.0",
-    "@vitejs/plugin-vue": "^5.0.4",
+    "@vitejs/plugin-vue": "^5.2.3",
     "@vue/eslint-config-prettier": "^9.0.0",
     "eslint": "^8.57.0",
     "eslint-plugin-vue": "^9.23.0",
     "prettier": "^3.2.5",
     "sass": "^1.79.1",
-    "vite": "^5.4.14"
+    "vite": "^6.2.2"
   }
 }
