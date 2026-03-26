@@ -104,6 +104,15 @@ export const useMapStore = defineStore('mapStore', () => ({
         });
       });
     });
+
+    // var lay = this.webMap.findLayerById('1920b80c2be-layer-76');
+    // if (lay) {
+    //   lay.when(() => {
+    //     console.log(lay.title);
+    //     console.log(lay.sourceJSON.description);
+    //   });
+    // }
+    // console.log(this.layers);
   },
 
   // set web map layer visibility
